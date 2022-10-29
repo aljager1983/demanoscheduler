@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+table {
+  table-layout: fixed;
+  height: 90vh;
+  width: 100vw;
+  
+}
+
+tr, td, th {
+  
+  text-align:center;
+  border: 1px solid white;
+  background-color: #96D4D4;
+}
